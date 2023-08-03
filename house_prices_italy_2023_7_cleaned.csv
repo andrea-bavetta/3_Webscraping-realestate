@@ -5430,7 +5430,6 @@
 5443,Campania,Boscoreale,53,,1,31125,2023-07-31
 5444,Campania,Sant'Angelo dei Lombardi,92,4,1,,2023-07-31
 5445,Campania,Casaluce,300,,1,250000,2023-07-31
-5446,Campania,Ville a schiera di nuova costruzione a Salerno,80,3,1,,2023-07-31
 5448,Campania,Napoli,100,3,2,250000,2023-07-31
 5449,Campania,Napoli,100,3,2,250000,2023-07-31
 5450,Campania,Napoli,95,3,1,148000,2023-07-31
@@ -7978,12 +7977,10 @@
 7997,Calabria,Castrolibero,179,5,2,190000,2023-07-31
 7998,Calabria,Diamante,271,5+,3+,300000,2023-07-31
 7999,Calabria,Marano Marchesato,232,4,1,,2023-07-31
-8004,Emilia Romagna,Ville a schiera di nuova costruzione a Pianoro,175,4,1,,2023-07-31
 8006,Emilia Romagna,Comacchio,55,3,1,120000,2023-07-31
 8007,Emilia Romagna,Castel Maggiore,90,4,2,275000,2023-07-31
 8008,Emilia Romagna,Bologna,86,3,1,189000,2023-07-31
 8010,Emilia Romagna,Argelato,57,3,1,158000,2023-07-31
-8011,Emilia Romagna,Ville a schiera di nuova costruzione a Parma,175,5+,1,,2023-07-31
 8012,Emilia Romagna,Zola Predosa,119,4,1,239000,2023-07-31
 8013,Emilia Romagna,Bologna,308,5+,3+,985000,2023-07-31
 8014,Emilia Romagna,Castel Maggiore,52,,1,148000,2023-07-31
@@ -8264,7 +8261,6 @@
 8305,Emilia Romagna,Castell'Arquato,280,4,2,390000,2023-07-31
 8306,Emilia Romagna,Bologna,101,4,1,270000,2023-07-31
 8307,Emilia Romagna,Bologna,150,5+,3,695000,2023-07-31
-8308,Emilia Romagna,Ville unifamiliari di nuova costruzione a Reggio Emilia,207,5+,1,,2023-07-31
 8309,Emilia Romagna,Bologna,105,4,1,268000,2023-07-31
 8310,Emilia Romagna,Casalecchio di Reno,97,4,1,325000,2023-07-31
 8311,Emilia Romagna,Budrio,650,5+,2,450000,2023-07-31
@@ -8534,7 +8530,6 @@
 8579,Emilia Romagna,Baricella,51,,1,80000,2023-07-31
 8580,Emilia Romagna,Parma,182,5+,3,,2023-07-31
 8581,Emilia Romagna,Forlì,235,5+,3,,2023-07-31
-8582,Emilia Romagna,Ville a schiera di nuova costruzione a Lesignano de' Bagni,159,5,1,,2023-07-31
 8583,Emilia Romagna,Cesena,81,4,1,139000,2023-07-31
 8586,Emilia Romagna,Comacchio,46,3,1,85000,2023-07-31
 8587,Emilia Romagna,Ozzano dell'Emilia,70,2,1,190000,2023-07-31
@@ -9004,7 +8999,6 @@
 9068,Emilia Romagna,Cavezzo,77,3,1,117000,2023-07-31
 9069,Emilia Romagna,Ferrara,344,5+,2,850000,2023-07-31
 9070,Emilia Romagna,Faenza,1,5+,3+,2500000,2023-07-31
-9071,Emilia Romagna,Ville bifamiliari e Ville a schiera di nuova costruzione a Castello d'Argile,108,3 - 4,1,,2023-07-31
 9072,Emilia Romagna,Ravenna,74,3,1,105000,2023-07-31
 9073,Emilia Romagna,Riccione,106,4,1,245000,2023-07-31
 9074,Emilia Romagna,Valsamoggia,225,5+,3,379000,2023-07-31
@@ -10261,7 +10255,6 @@
 10336,Friuli-Venezia Giulia,Lignano Sabbiadoro,68,4,2,240000,2023-07-31
 10337,Friuli-Venezia Giulia,Lauco,150,4,1,,2023-07-31
 10338,Friuli-Venezia Giulia,Udine,151,5+,2,,2023-07-31
-10339,Friuli-Venezia Giulia,Attici di nuova costruzione a Lignano Sabbiadoro,156,4 - 5,1,,2023-07-31
 10340,Friuli-Venezia Giulia,Pordenone,172,5,2,335000,2023-07-31
 10341,Friuli-Venezia Giulia,Grado,70,2,1,355000,2023-07-31
 10342,Friuli-Venezia Giulia,Fontanafredda,156,5+,2,165000,2023-07-31
@@ -10585,7 +10578,6 @@
 10661,Friuli-Venezia Giulia,Grado,42,2,1,168000,2023-07-31
 10662,Friuli-Venezia Giulia,Tolmezzo,121,4,2,310000,2023-07-31
 10663,Friuli-Venezia Giulia,San Giovanni al Natisone,364,5+,3+,450000,2023-07-31
-10665,Friuli-Venezia Giulia,Attici di nuova costruzione a Pasian di Prato,121,4 - 5+,1,,2023-07-31
 10666,Friuli-Venezia Giulia,Martignacco,124,4,1,169000,2023-07-31
 10667,Friuli-Venezia Giulia,Udine,138,4,1,179000,2023-07-31
 10668,Friuli-Venezia Giulia,Lignano Sabbiadoro,270,4,2,430000,2023-07-31
@@ -11382,7 +11374,6 @@
 11460,Friuli-Venezia Giulia,Povoletto,230,3,2,190000,2023-07-31
 11461,Friuli-Venezia Giulia,Udine,100,3,1,145000,2023-07-31
 11462,Friuli-Venezia Giulia,Pordenone,96,5,1,105000,2023-07-31
-11463,Friuli-Venezia Giulia,Villesse,104,4,1,80000,2023-07-31
 11464,Friuli-Venezia Giulia,Talmassons,180,5,2,345000,2023-07-31
 11465,Friuli-Venezia Giulia,Sagrado,260,5+,3,350000,2023-07-31
 11466,Friuli-Venezia Giulia,Lusevera,205,5+,3,145000,2023-07-31
@@ -11598,7 +11589,6 @@
 11676,Friuli-Venezia Giulia,Monfalcone,135,5+,2,199000,2023-07-31
 11677,Friuli-Venezia Giulia,Gemona del Friuli,195,5+,2,159000,2023-07-31
 11678,Friuli-Venezia Giulia,Lignano Sabbiadoro,56,3,1,255000,2023-07-31
-11679,Friuli-Venezia Giulia,Villesse,140,5,2,350000,2023-07-31
 11680,Friuli-Venezia Giulia,Trieste,65,2,1,120000,2023-07-31
 11681,Friuli-Venezia Giulia,Gorizia,90,3,1,195000,2023-07-31
 11682,Friuli-Venezia Giulia,Sacile,129,3,1,,2023-07-31
@@ -11762,7 +11752,6 @@
 11840,Friuli-Venezia Giulia,Aiello del Friuli,126,5+,1,74000,2023-07-31
 11841,Friuli-Venezia Giulia,Santa Maria la Longa,195,3,2,158000,2023-07-31
 11842,Friuli-Venezia Giulia,Buttrio,126,3,2,168000,2023-07-31
-11843,Friuli-Venezia Giulia,Villesse,190,5+,2,265000,2023-07-31
 11844,Friuli-Venezia Giulia,San Vito al Tagliamento,198,3,2,55000,2023-07-31
 11845,Friuli-Venezia Giulia,San Vito al Tagliamento,104,2,1,185000,2023-07-31
 11846,Friuli-Venezia Giulia,Morsano al Tagliamento,60,,1,69000,2023-07-31
@@ -12783,7 +12772,6 @@
 12887,Lazio,Fiumicino,36,,1,144000,2023-07-31
 12888,Lazio,Roma,136,4,2,375000,2023-07-31
 12889,Lazio,Roma,118,4,2,450000,2023-07-31
-12890,Lazio,Ville a schiera di nuova costruzione a Roma,115,5+,1,,2023-07-31
 12891,Lazio,Roma,100,3,2,,2023-07-31
 12892,Lazio,Roma,75,2,1,345000,2023-07-31
 12893,Lazio,Roma,39,,1,159000,2023-07-31
@@ -12894,7 +12882,6 @@
 13001,Lazio,Roma,66,3,1,190000,2023-07-31
 13002,Lazio,Roma,202,4,2,920000,2023-07-31
 13003,Lazio,Roma,204,5+,2,625000,2023-07-31
-13004,Lazio,Ville plurifamiliari di nuova costruzione a Roma,90,3 - 4,1,,2023-07-31
 13005,Lazio,Roma,172,5+,2,890000,2023-07-31
 13006,Lazio,Formello,365,5+,3+,980000,2023-07-31
 13007,Lazio,Roma,100,3,2,249000,2023-07-31
@@ -13292,7 +13279,6 @@
 13403,Lazio,Ciampino,115,3,1,205000,2023-07-31
 13404,Lazio,Manziana,70,2,2,85000,2023-07-31
 13405,Lazio,Roma,51,,1,314000,2023-07-31
-13406,Lazio,Ville plurifamiliari di nuova costruzione a Nettuno,80,4 - 5,1,,2023-07-31
 13407,Lazio,Roma,100,3,1,,2023-07-31
 13408,Lazio,Roma,122,4,2,489000,2023-07-31
 13409,Lazio,Ladispoli,53,2,1,95000,2023-07-31
@@ -13564,7 +13550,6 @@
 13677,Lazio,Roma,250,5+,3,1100000,2023-07-31
 13678,Lazio,Fara in Sabina,83,3,1,108000,2023-07-31
 13679,Lazio,Roma,74,3,1,199500,2023-07-31
-13680,Lazio,Ville a schiera di nuova costruzione a Roma,86,4,1,,2023-07-31
 13682,Lazio,Roma,55,2,1,234000,2023-07-31
 13683,Lazio,Fara in Sabina,161,5,2,169000,2023-07-31
 13684,Lazio,Roma,202,5+,3,980000,2023-07-31
@@ -13966,7 +13951,6 @@
 14091,Liguria,Celle Ligure,264,5+,3+,,2023-07-31
 14092,Liguria,Genova,91,3,1,105000,2023-07-31
 14093,Liguria,Genova,123,4,1,116000,2023-07-31
-14094,Liguria,Attici di nuova costruzione a Genova,166,3 - 4,1,,2023-07-31
 14095,Liguria,La Spezia,130,5+,2,530000,2023-07-31
 14096,Liguria,Genova,75,3,1,65000,2023-07-31
 14097,Liguria,Genova,55,3,1,50000,2023-07-31
@@ -15885,7 +15869,6 @@
 16034,Lombardia,Milano,60,3,1,429000,2023-07-31
 16035,Lombardia,Milano,65,2,1,409000,2023-07-31
 16039,Lombardia,Milano,78,2,1,480000,2023-07-31
-16043,Lombardia,Ville unifamiliari di nuova costruzione a Vimercate,285,5+,1,,2023-07-31
 16044,Lombardia,Milano,229,4,3+,,2023-07-31
 16045,Lombardia,Milano,147,4,2,990000,2023-07-31
 16046,Lombardia,Milano,111,3,2,625000,2023-07-31
@@ -16277,7 +16260,6 @@
 16479,Lombardia,Milano,79,3,1,450000,2023-07-31
 16480,Lombardia,Sirmione,105,4,2,449000,2023-07-31
 16481,Lombardia,Milano,65,2,1,570000,2023-07-31
-16483,Lombardia,Ville plurifamiliari e Ville a schiera di nuova costruzione a Lomagna,195,4 - 5,1,,2023-07-31
 16484,Lombardia,Milano,190,5,2,1495000,2023-07-31
 16485,Lombardia,Cambiago,100,3,1,129000,2023-07-31
 16486,Lombardia,Milano,97,3,2,620000,2023-07-31
@@ -16658,7 +16640,6 @@
 16901,Lombardia,Rozzano,90,3,1,189000,2023-07-31
 16902,Lombardia,Cinisello Balsamo,120,3,1,269000,2023-07-31
 16903,Lombardia,Milano,43,2,1,219000,2023-07-31
-16904,Lombardia,Ville unifamiliari di nuova costruzione a Treviolo,144,4 - 5,1,,2023-07-31
 16905,Lombardia,Milano,25,,1,185000,2023-07-31
 16906,Lombardia,Milano,125,3,2,985000,2023-07-31
 16907,Lombardia,Milano,130,4,2,1100000,2023-07-31
@@ -17102,7 +17083,6 @@
 17380,Lombardia,Varese,101,3,2,330000,2023-07-31
 17381,Lombardia,Varese,70,2,1,230000,2023-07-31
 17382,Lombardia,Milano,113,3,2,830000,2023-07-31
-17383,Lombardia,Ville unifamiliari di nuova costruzione a Treviolo,182,5,1,,2023-07-31
 17385,Lombardia,Biassono,126,3,2,360000,2023-07-31
 17386,Lombardia,Merate,75,2,1,119000,2023-07-31
 17387,Lombardia,Monza,190,5,3,530000,2023-07-31
@@ -17550,7 +17530,6 @@
 17843,Lombardia,Senago,100,3,2,256000,2023-07-31
 17844,Lombardia,Milano,45,2,1,395000,2023-07-31
 17845,Lombardia,Milano,187,5,3,1279345,2023-07-31
-17846,Lombardia,Ville bifamiliari di nuova costruzione a Sirmione,213,,1,,2023-07-31
 17847,Lombardia,Milano,140,4,1,680000,2023-07-31
 17848,Lombardia,Busto Arsizio,61,2,1,65000,2023-07-31
 17849,Lombardia,Gussago,1,5+,3+,,2023-07-31
@@ -18593,7 +18572,6 @@
 18892,Marche,Senigallia,90,4,1,125000,2023-07-31
 18894,Marche,Montemarciano,289,5+,3,270000,2023-07-31
 18895,Marche,Montemarciano,360,5+,3+,390000,2023-07-31
-18897,Marche,Ville unifamiliari di nuova costruzione a Recanati,240,5+,1,,2023-07-31
 18898,Marche,Ancona,70,3,1,75000,2023-07-31
 18899,Marche,Ancona,51,2,1,90000,2023-07-31
 18900,Marche,Montegranaro,63,3,1,32000,2023-07-31
@@ -21729,7 +21707,6 @@
 22037,Piemonte,Carpeneto,330,5+,3+,650000,2023-07-31
 22038,Piemonte,Torino,105,4,1,215000,2023-07-31
 22039,Piemonte,Avigliana,87,4,2,199000,2023-07-31
-22040,Piemonte,Ville bifamiliari e Ville a schiera di nuova costruzione a Candiolo,229,5+,1,,2023-07-31
 22041,Piemonte,Torino,52,2,1,79000,2023-07-31
 22042,Piemonte,Torino,110,4,1,235000,2023-07-31
 22043,Piemonte,Nichelino,93,3,1,127000,2023-07-31
@@ -22056,7 +22033,6 @@
 22376,Piemonte,Mondovì,188,3,1,148000,2023-07-31
 22377,Piemonte,Mondovì,125,4,1,122000,2023-07-31
 22378,Piemonte,Mondovì,174,,1,137000,2023-07-31
-22380,Piemonte,Ville bifamiliari e Ville a schiera di nuova costruzione a Candiolo,229,5+,1,,2023-07-31
 22381,Piemonte,Cuneo,95,4,1,,2023-07-31
 22382,Piemonte,Borgo San Dalmazzo,115,5,2,190000,2023-07-31
 22383,Piemonte,Borgo San Dalmazzo,120,4,2,,2023-07-31
@@ -23986,7 +23962,6 @@
 24329,Puglia,Bisceglie,102,4,1,125000,2023-07-31
 24330,Puglia,Taranto,136,2,1,,2023-07-31
 24331,Puglia,Grumo Appula,102,3,1,,2023-07-31
-24332,Puglia,Attici di nuova costruzione a Monopoli,98,4,1,,2023-07-31
 24333,Puglia,Statte,104,3,1,,2023-07-31
 24334,Puglia,Grottaglie,444,5+,1,170000,2023-07-31
 24335,Puglia,Porto Cesareo,200,5+,2,325000,2023-07-31
@@ -24071,7 +24046,6 @@
 24415,Puglia,Foggia,68,3,1,98000,2023-07-31
 24416,Puglia,Locorotondo,251,5+,1,369000,2023-07-31
 24417,Puglia,Casamassima,104,3,2,130000,2023-07-31
-24418,Puglia,Ville a schiera di nuova costruzione a Bari,141,4 - 5,1,,2023-07-31
 24419,Puglia,Andria,182,5,2,390000,2023-07-31
 24420,Puglia,Bari,94,3,1,255000,2023-07-31
 24421,Puglia,Cisternino,150,3,2,136000,2023-07-31
@@ -25610,7 +25584,6 @@
 25958,Puglia,Manfredonia,106,4,1,148000,2023-07-31
 25959,Puglia,Manfredonia,104,4,1,180000,2023-07-31
 25960,Puglia,Lecce,97,3,1,119000,2023-07-31
-25961,Puglia,Ville unifamiliari di nuova costruzione a Porto Cesareo,85,4,1,,2023-07-31
 25962,Puglia,Trepuzzi,229,5,2,160000,2023-07-31
 25963,Puglia,Adelfia,125,4,1,129000,2023-07-31
 25964,Puglia,Sammichele di Bari,110,3,2,250000,2023-07-31
@@ -25746,12 +25719,10 @@
 26096,Sardegna,Calasetta,558,5+,3+,950000,2023-07-31
 26097,Sardegna,Arzachena,50,2,1,229000,2023-07-31
 26098,Sardegna,Trinità d'Agultu e Vignola,50,2,1,139000,2023-07-31
-26099,Sardegna,Ville a schiera e Garage - box di nuova costruzione a Valledoria,16,3 - 4,1,,2023-07-31
 26100,Sardegna,Santa Teresa Gallura,58,2,1,155000,2023-07-31
 26102,Sardegna,Palau,109,4,2,400000,2023-07-31
 26103,Sardegna,Santa Teresa Gallura,103,5+,3,400000,2023-07-31
 26104,Sardegna,Domus De Maria,180,5,2,790000,2023-07-31
-26105,Sardegna,Ville a schiera di nuova costruzione a Castelsardo,120,4,1,,2023-07-31
 26106,Sardegna,Olbia,87,3,2,369000,2023-07-31
 26107,Sardegna,Arzachena,233,5+,3+,1100000,2023-07-31
 26108,Sardegna,Alghero,140,4,2,1395000,2023-07-31
@@ -31878,7 +31849,6 @@
 32254,Trentino-Alto Adige,Lavarone,75,3,2,235000,2023-07-31
 32255,Trentino-Alto Adige,Arco,200,5,3,460000,2023-07-31
 32256,Trentino-Alto Adige,Ledro,72,3,1,148000,2023-07-31
-32257,Trentino-Alto Adige,Ville di Fiemme,146,4,1,,2023-07-31
 32258,Trentino-Alto Adige,Bolzano,88,3,1,345000,2023-07-31
 32259,Trentino-Alto Adige,Trento,137,4,2,450000,2023-07-31
 32260,Trentino-Alto Adige,Trento,88,2,1,325000,2023-07-31
@@ -32329,7 +32299,6 @@
 32713,Trentino-Alto Adige,Cles,1,3,3,900000,2023-07-31
 32714,Trentino-Alto Adige,Montagna,127,4,2,505000,2023-07-31
 32715,Trentino-Alto Adige,Bolzano,58,2,1,240000,2023-07-31
-32716,Trentino-Alto Adige,Ville di Fiemme,87,2,1,105000,2023-07-31
 32717,Trentino-Alto Adige,Caldaro sulla Strada del Vino,400,5+,3+,1200000,2023-07-31
 32718,Trentino-Alto Adige,Bronzolo,70,2,1,240000,2023-07-31
 32719,Trentino-Alto Adige,Cavedago,240,5+,3,210000,2023-07-31
@@ -32559,7 +32528,6 @@
 32944,Trentino-Alto Adige,Lavarone,77,3,1,155000,2023-07-31
 32945,Trentino-Alto Adige,Trento,94,4,1,350000,2023-07-31
 32946,Trentino-Alto Adige,Trento,48,2,1,109000,2023-07-31
-32947,Trentino-Alto Adige,Tre Ville,66,3,2,495000,2023-07-31
 32948,Trentino-Alto Adige,Fiavè,151,4,2,220000,2023-07-31
 32949,Trentino-Alto Adige,Monguelfo-Tesido,416,5+,3+,2800000,2023-07-31
 32950,Trentino-Alto Adige,Cavedine,185,5,2,250000,2023-07-31
@@ -32765,7 +32733,6 @@
 33150,Trentino-Alto Adige,Borgo Valsugana,76,3,1,128000,2023-07-31
 33151,Trentino-Alto Adige,Besenello,571,5+,3,670000,2023-07-31
 33152,Trentino-Alto Adige,Baselga di Pinè,85,2,1,98000,2023-07-31
-33153,Trentino-Alto Adige,Ville di Fiemme,300,5+,3+,980000,2023-07-31
 33154,Trentino-Alto Adige,Vipiteno,80,3,1,390000,2023-07-31
 33155,Trentino-Alto Adige,Fortezza,78,3,2,240000,2023-07-31
 33156,Trentino-Alto Adige,Trento,69,3,1,244000,2023-07-31
@@ -33319,7 +33286,6 @@
 33705,Trentino-Alto Adige,Laives,130,4,1,370000,2023-07-31
 33706,Trentino-Alto Adige,Porte di Rendena,78,3,2,155000,2023-07-31
 33707,Trentino-Alto Adige,Bocenago,560,5+,3+,960000,2023-07-31
-33708,Trentino-Alto Adige,Ville d'Anaunia,150,3,2,155000,2023-07-31
 33709,Trentino-Alto Adige,Pinzolo,64,2,1,360000,2023-07-31
 33710,Trentino-Alto Adige,Merano,159,3,1,350000,2023-07-31
 33711,Trentino-Alto Adige,Civezzano,66,2,1,130000,2023-07-31
@@ -33414,7 +33380,6 @@
 33800,Trentino-Alto Adige,Bolzano,131,5,1,480000,2023-07-31
 33801,Trentino-Alto Adige,Trento,120,4,2,450000,2023-07-31
 33802,Trentino-Alto Adige,Cembra Lisignago,470,5+,2,150000,2023-07-31
-33803,Trentino-Alto Adige,Ville di Fiemme,122,4,2,490000,2023-07-31
 33804,Trentino-Alto Adige,Bolzano,150,5,3,898000,2023-07-31
 33805,Trentino-Alto Adige,Riva del Garda,116,3,1,255000,2023-07-31
 33806,Trentino-Alto Adige,San Giovanni di Fassa,65,3,1,280000,2023-07-31
@@ -33436,9 +33401,6 @@
 33822,Trentino-Alto Adige,Montagna,,5,3,715000,2023-07-31
 33823,Trentino-Alto Adige,Bolzano,120,4,1,440000,2023-07-31
 33824,Trentino-Alto Adige,Merano,60,,1,220000,2023-07-31
-33825,Trentino-Alto Adige,Ville di Fiemme,98,4,2,330000,2023-07-31
-33826,Trentino-Alto Adige,Ville di Fiemme,91,3,2,295000,2023-07-31
-33827,Trentino-Alto Adige,Ville di Fiemme,87,3,2,290000,2023-07-31
 33828,Trentino-Alto Adige,Trento,98,4,1,330000,2023-07-31
 33829,Trentino-Alto Adige,Merano,135,2,1,430000,2023-07-31
 33830,Trentino-Alto Adige,Borgo Valsugana,59,3,1,95000,2023-07-31
@@ -33540,7 +33502,6 @@
 33926,Trentino-Alto Adige,Trento,80,3,1,235000,2023-07-31
 33927,Trentino-Alto Adige,Rabbi,100,,1,320000,2023-07-31
 33928,Trentino-Alto Adige,Bocenago,114,5+,2,199000,2023-07-31
-33929,Trentino-Alto Adige,Tre Ville,80,3,2,,2023-07-31
 33930,Trentino-Alto Adige,Caldonazzo,280,5+,3,49000,2023-07-31
 33931,Trentino-Alto Adige,Borgo d'Anaunia,438,5+,3+,950000,2023-07-31
 33932,Trentino-Alto Adige,Croviana,70,3,1,153000,2023-07-31
@@ -33556,7 +33517,6 @@
 33942,Trentino-Alto Adige,Arco,111,3,1,,2023-07-31
 33943,Trentino-Alto Adige,Strembo,60,3,1,65000,2023-07-31
 33944,Trentino-Alto Adige,Calceranica al Lago,90,4,1,235000,2023-07-31
-33945,Trentino-Alto Adige,Tre Ville,155,5+,2,,2023-07-31
 33946,Trentino-Alto Adige,Merano,48,2,1,225000,2023-07-31
 33947,Trentino-Alto Adige,Trento,90,3,1,349000,2023-07-31
 33948,Trentino-Alto Adige,Malè,200,4,1,150000,2023-07-31
@@ -33693,7 +33653,6 @@
 34079,Umbria,Città della Pieve,450,5+,1,,2023-07-31
 34080,Umbria,Narni,250,2,2,390000,2023-07-31
 34081,Umbria,Gualdo Cattaneo,380,5+,3,490000,2023-07-31
-34082,Umbria,Ville unifamiliari di nuova costruzione a Perugia,150,,1,,2023-07-31
 34083,Umbria,Perugia,93,4,1,95000,2023-07-31
 34084,Umbria,Perugia,360,5+,3+,330000,2023-07-31
 34085,Umbria,Assisi,151,3,1,300000,2023-07-31
@@ -35618,7 +35577,6 @@
 36006,Valle d'Aosta,Prè-Saint-Didier,115,4,3,770000,2023-07-31
 36007,Valle d'Aosta,La Salle,113,4,2,425000,2023-07-31
 36008,Valle d'Aosta,Prè-Saint-Didier,100,4,2,730000,2023-07-31
-36009,Valle d'Aosta,Attici di nuova costruzione a Courmayeur,106,3,1,,2023-07-31
 36010,Valle d'Aosta,Courmayeur,290,5+,3+,3400000,2023-07-31
 36011,Valle d'Aosta,Courmayeur,284,5+,3+,2750000,2023-07-31
 36012,Valle d'Aosta,Ayas,115,3,2,890000,2023-07-31
@@ -35973,7 +35931,6 @@
 36361,Valle d'Aosta,Challand-Saint-Victor,126,4,1,250000,2023-07-31
 36362,Valle d'Aosta,Gressoney-Saint-Jean,70,2,2,195000,2023-07-31
 36363,Valle d'Aosta,Ayas,174,4,3,600000,2023-07-31
-36364,Valle d'Aosta,Villeneuve,60,2,1,,2023-07-31
 36365,Valle d'Aosta,Morgex,65,4,1,130000,2023-07-31
 36366,Valle d'Aosta,Gressoney-Saint-Jean,55,2,1,298000,2023-07-31
 36367,Valle d'Aosta,Quart,120,3,2,600000,2023-07-31
@@ -36296,7 +36253,6 @@
 36684,Valle d'Aosta,Aosta,120,4,2,290000,2023-07-31
 36685,Valle d'Aosta,Valtournenche,55,3,2,5000,2023-07-31
 36686,Valle d'Aosta,Montjovet,67,3,1,50000,2023-07-31
-36687,Valle d'Aosta,Villeneuve,80,3,2,128000,2023-07-31
 36688,Valle d'Aosta,Saint-Vincent,170,5+,1,300000,2023-07-31
 36689,Valle d'Aosta,Antey-Saint-Andrè,120,5+,2,990000,2023-07-31
 36690,Valle d'Aosta,Sarre,52,2,1,84000,2023-07-31
@@ -36316,7 +36272,6 @@
 36704,Valle d'Aosta,Nus,200,5+,1,109000,2023-07-31
 36705,Valle d'Aosta,Doues,103,3,1,69000,2023-07-31
 36706,Valle d'Aosta,Ayas,281,5+,3+,1500000,2023-07-31
-36707,Valle d'Aosta,Villeneuve,50,3,1,110000,2023-07-31
 36708,Valle d'Aosta,Valpelline,200,5,1,49000,2023-07-31
 36709,Valle d'Aosta,Valsavarenche,90,3,2,130000,2023-07-31
 36710,Valle d'Aosta,Pollein,160,3,3,339000,2023-07-31
@@ -36618,7 +36573,6 @@
 37006,Valle d'Aosta,Courmayeur,60,2,1,518000,2023-07-31
 37007,Valle d'Aosta,Courmayeur,52,2,1,395000,2023-07-31
 37008,Valle d'Aosta,Pollein,49,2,1,59000,2023-07-31
-37009,Valle d'Aosta,Villeneuve,200,5+,2,25000,2023-07-31
 37010,Valle d'Aosta,Champorcher,45,2,1,,2023-07-31
 37011,Valle d'Aosta,Aosta,80,2,2,135000,2023-07-31
 37012,Valle d'Aosta,Courmayeur,65,2,2,399000,2023-07-31
@@ -36665,7 +36619,6 @@
 37053,Valle d'Aosta,Gressoney-Saint-Jean,33,2,1,95000,2023-07-31
 37054,Valle d'Aosta,Prè-Saint-Didier,75,3,1,780000,2023-07-31
 37055,Valle d'Aosta,Courmayeur,98,3,2,780000,2023-07-31
-37056,Valle d'Aosta,Villeneuve,80,4,1,56000,2023-07-31
 37057,Valle d'Aosta,Quart,75,3,1,,2023-07-31
 37058,Valle d'Aosta,Aosta,86,4,1,139000,2023-07-31
 37059,Valle d'Aosta,Chatillon,97,3,1,26000,2023-07-31
@@ -36760,14 +36713,12 @@
 37148,Valle d'Aosta,Chatillon,65,3,1,75000,2023-07-31
 37149,Valle d'Aosta,Antey-Saint-Andrè,80,5+,2,180000,2023-07-31
 37150,Valle d'Aosta,La Magdeleine,300,5+,3,490000,2023-07-31
-37151,Valle d'Aosta,Villeneuve,180,5+,3,250000,2023-07-31
 37152,Valle d'Aosta,Morgex,140,4,2,360000,2023-07-31
 37153,Valle d'Aosta,Antey-Saint-Andrè,101,,1,195000,2023-07-31
 37154,Valle d'Aosta,Saint-Vincent,88,3,1,89000,2023-07-31
 37155,Valle d'Aosta,Saint-Pierre,420,5+,1,120000,2023-07-31
 37156,Valle d'Aosta,Courmayeur,140,5+,2,850000,2023-07-31
 37157,Valle d'Aosta,Aosta,140,5,2,395000,2023-07-31
-37158,Valle d'Aosta,Villeneuve,180,5+,3,350000,2023-07-31
 37159,Valle d'Aosta,La Salle,191,5+,1,120000,2023-07-31
 37160,Valle d'Aosta,Sarre,322,5+,3+,490000,2023-07-31
 37161,Valle d'Aosta,Gressan,34,,1,109000,2023-07-31
@@ -37068,7 +37019,6 @@
 37456,Valle d'Aosta,Chambave,92,2,1,39000,2023-07-31
 37457,Valle d'Aosta,La Salle,200,5+,3+,240000,2023-07-31
 37458,Valle d'Aosta,Gressan,66,3,1,220000,2023-07-31
-37459,Valle d'Aosta,Villeneuve,100,2,1,45000,2023-07-31
 37460,Valle d'Aosta,Gressan,53,3,1,180000,2023-07-31
 37461,Valle d'Aosta,Gressan,54,2,1,140000,2023-07-31
 37462,Valle d'Aosta,Gressan,83,4,2,150000,2023-07-31
@@ -37609,10 +37559,7 @@
 37997,Valle d'Aosta,Courmayeur,235,5+,3+,,2023-07-31
 37998,Valle d'Aosta,Fontainemore,170,5+,2,150000,2023-07-31
 37999,Veneto,Albignasego,100,5,1,155000,2023-07-31
-38007,Veneto,Ville plurifamiliari di nuova costruzione a Albignasego,129,4 - 5,1,,2023-07-31
-38010,Veneto,Ville plurifamiliari di nuova costruzione a Albignasego,155,5,1,,2023-07-31
 38014,Veneto,Venezia,79,4,1,310000,2023-07-31
-38015,Veneto,Ville bifamiliari e Ville a schiera di nuova costruzione a Vigonza,224,5+,1,,2023-07-31
 38019,Veneto,Venezia,230,5+,2,780000,2023-07-31
 38021,Veneto,Cortina d'Ampezzo,120,5,3,2500000,2023-07-31
 38022,Veneto,Verona,230,5+,3+,1150000,2023-07-31
@@ -37634,7 +37581,6 @@
 38040,Veneto,Padova,73,2,1,235900,2023-07-31
 38041,Veneto,Este,200,4,2,280000,2023-07-31
 38043,Veneto,Este,180,5,2,220000,2023-07-31
-38047,Veneto,Ville bifamiliari di nuova costruzione a Mira,161,5,1,,2023-07-31
 38048,Veneto,Jesolo,87,2,1,335000,2023-07-31
 38050,Veneto,Peschiera del Garda,114,3,2,385000,2023-07-31
 38051,Veneto,Este,132,5,2,250000,2023-07-31
@@ -37976,7 +37922,6 @@
 38407,Veneto,Abano Terme,144,4,2,290000,2023-07-31
 38408,Veneto,Verona,115,3,2,380000,2023-07-31
 38409,Veneto,Verona,115,3,2,390000,2023-07-31
-38410,Veneto,Ville bifamiliari di nuova costruzione a Selvazzano Dentro,174,5+,1,,2023-07-31
 38411,Veneto,Vicenza,122,5+,1,160000,2023-07-31
 38414,Veneto,Cavallino-Treporti,112,5,2,600000,2023-07-31
 38415,Veneto,Mirano,94,4,2,338000,2023-07-31
@@ -38140,7 +38085,6 @@
 38578,Veneto,Verona,165,5,2,443000,2023-07-31
 38579,Veneto,Negrar di Valpolicella,138,5,2,263000,2023-07-31
 38580,Veneto,Torreglia,260,4,3,620000,2023-07-31
-38581,Veneto,Ville a schiera di nuova costruzione a Camisano Vicentino,180,,1,,2023-07-31
 38582,Veneto,Noale,155,5+,3,495000,2023-07-31
 38583,Veneto,Roana,79,3,1,165000,2023-07-31
 38584,Veneto,Marcon,150,5+,2,165000,2023-07-31
@@ -38688,8 +38632,6 @@
 39128,Veneto,Peschiera del Garda,86,3,1,230000,2023-07-31
 39129,Veneto,Alpago,967,5+,1,80000,2023-07-31
 39130,Veneto,Lavagno,500,5+,3+,450000,2023-07-31
-39131,Veneto,Ville unifamiliari e Ville bifamiliari di nuova costruzione a Saonara,190,5+,1,,2023-07-31
-39132,Veneto,Ville a schiera e Ville unifamiliari di nuova costruzione a Piove di Sacco,150,5+,1,,2023-07-31
 39133,Veneto,Vigodarzere,103,4,2,248000,2023-07-31
 39134,Veneto,Venezia,440,5+,3+,2435000,2023-07-31
 39135,Veneto,Treviso,190,5+,3,390000,2023-07-31
@@ -38729,7 +38671,6 @@
 39169,Veneto,Negrar di Valpolicella,137,5,2,310000,2023-07-31
 39170,Veneto,Chioggia,80,4,1,,2023-07-31
 39171,Veneto,Padova,141,3,1,280000,2023-07-31
-39172,Veneto,Ville bifamiliari e Ville plurifamiliari di nuova costruzione a Selvazzano Dentro,140,5+,1,,2023-07-31
 39173,Veneto,Valdagno,45,2,1,83000,2023-07-31
 39174,Veneto,Veronella,85,3,1,110000,2023-07-31
 39175,Veneto,Mogliano Veneto,86,4,1,345000,2023-07-31
@@ -38777,7 +38718,6 @@
 39217,Veneto,Lusiana Conco,100,4,1,89000,2023-07-31
 39218,Veneto,Bussolengo,345,5+,3,490000,2023-07-31
 39219,Veneto,Treviso,120,4,2,330000,2023-07-31
-39220,Veneto,Ville bifamiliari e Ville unifamiliari di nuova costruzione a Casier,145,4,1,,2023-07-31
 39221,Veneto,Mogliano Veneto,70,3,1,220000,2023-07-31
 39222,Veneto,Comelico Superiore,125,3,3,49000,2023-07-31
 39223,Veneto,Monselice,165,3,2,230000,2023-07-31
@@ -39012,7 +38952,6 @@
 39455,Veneto,Abano Terme,224,5,3,295000,2023-07-31
 39456,Veneto,Mogliano Veneto,166,5,2,221000,2023-07-31
 39457,Veneto,Villafranca di Verona,110,3,2,242000,2023-07-31
-39458,Veneto,Ville bifamiliari e Ville unifamiliari di nuova costruzione a Casale sul Sile,195,5 - 5+,1,,2023-07-31
 39459,Veneto,Saonara,95,3,2,195000,2023-07-31
 39460,Veneto,Padova,103,3,2,230000,2023-07-31
 39461,Veneto,Rovigo,265,5+,1,319000,2023-07-31
